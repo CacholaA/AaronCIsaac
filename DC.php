@@ -36,22 +36,14 @@
     
       </button>
             <a class="navbar-brand" href="index.php">Comic-Media</a>
+            <a class="navbar-brand" href="Marvel.php">Marvel Comics</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        
-        <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Comics <span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-              <li><a href="DC.php">DC Comics</a></li>
-              <li><a href="Marvel.php">Marvel Comics</a></li>
+    
             
-            
-          </ul>
-        </li>
-      </ul>
+          
+       
       <form class="navbar-form navbar-left" role="search">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
@@ -61,8 +53,8 @@
       <ul class="nav navbar-nav navbar-right">
        
       </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
+    </div>
+  <!-- /.container-fluid -->
 </nav>
 <body background="http://fc08.deviantart.net/fs70/i/2014/171/1/e/dc_comics_wallpaper__2560x1440__by_straxeh-d7n61xe.png">
     <div class="jumbotron">

@@ -61,9 +61,10 @@ di{
     display:block;
      margin:auto;
 }
-iframe{
-    padding-left: 450px;
-    background-color: black;
+.iframe{
+   display: block;
+   padding-left: 456px;
+   background-color: black;
 }
   .img{
       height:150px;
